@@ -1,0 +1,15 @@
+body {
+    font-family: 'Outfit', sans-serif;
+}
+
+.navbar-brand span img {
+    width: 70%;
+}
+
+h4 {
+    font-weight: 500;
+}
+/* 
+.card-header h4 {
+    text-align: center;
+} */

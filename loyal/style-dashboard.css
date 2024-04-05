@@ -1,0 +1,56 @@
+body {
+    font-family: 'Outfit', sans-serif;
+}
+
+#pemasukan-text h4, 
+#pengeluaran-text h4 {
+    font-weight: 400;
+}
+
+#pemasukan-text p,
+#pengeluaran-text p {
+    color: #7F7F7F;
+}
+
+.card-body #pemasukan,
+.card-body #pengeluaran {
+    display: flex;
+}
+
+.mb-0 {
+    font-weight: 400;
+}
+
+.card-body #pemasukan,
+.card-body #pengeluaran {
+    display: flex;
+}
+
+
+#pemasukan {
+    display: flex;
+    margin: 16px 20px;
+}
+
+#pemasukan #pemasukan-img img {
+    /* justify-content: center;
+    align-items: center; */
+    margin: 0 auto;
+}
+
+#pemasukan #pemasukan-text h4,
+#pemasukan #pemasukan-text p {
+    padding: 0 12px;
+}
+
+#pengeluaran {
+    display: flex;
+    margin: 20px;
+}
+
+/* #pengeluaran  */
+
+#pengeluaran #pengeluaran-text h4,
+#pengeluaran #pengeluaran-text p {
+    padding: 0 12px;
+}

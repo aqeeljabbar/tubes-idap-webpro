@@ -1,0 +1,29 @@
+/* :root {
+    --btn-primary: #418CFD;
+    --btn-danger: #FC5C65;
+} */
+
+.btn-primary {
+    background-color: #418CFD;
+    color: #fff;
+}
+
+.btn-danger {
+    background-color: #FC5C65;
+    color: #fff;
+}
+
+
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background-image: url('asset/login-bg.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
